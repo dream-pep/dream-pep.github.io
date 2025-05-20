@@ -1,25 +1,3 @@
-yangspring114:
-  name: YangSpring114
-  title: Lunova Studio 的主要维护者/创始人
-  url: https://github.com/YangSpring114
-  image_url: https://github.com/YangSpring114.png
-  page: true
-  socials:
-    github: YangSpring114
-    Bilibili: https://space.bilibili.com/1098028524
-    AFDian: https://afdian.com/a/WonderLab
-
-starcloudsea:
-  name: Staarcloudsea
-  title: 不正经的美术与文档维护者
-  url: starcloudsea.github.io/starseadb
-  image_url: https://github.com/Starcloudsea.png
-  page: true
-  socials:
-    github: Starcloudsea
-    Bilibili: https://space.bilibili.com/2123349162
-    AFDian: https://afdian.com/a/Starcloudsea
-
 dreampep:
   name: dream_pep
   title: 经常网络性死亡的美术设计
@@ -28,27 +6,3 @@ dreampep:
   page: true
   socials:
     github: dream-pep
-
-huang_fts427:
-  name: Huang_fts427
-  title: 管理 WonderLab AUR 维护者
-  url: www.fts427.top
-  image_url: https://github.com/fts427.png
-  email: FTS427@outlook.com
-  page: true
-  socials:
-    github: fts427
-    Bilibili: https://space.bilibili.com/1978537245
-    x: HuangFts427
-
-mail_set:
-  name: mail_set
-  title: 使用Arch（可疑）的Linux端维护者
-  url: https://mailset.top/
-  image_url: https://blog.mailset.top/img/favicon.webp
-  email: mail_set@mailset.top
-  page: true
-  socials:
-    github: maailset
-    bilibili: https://space.bilibili.com/435654748
-    x: mail_set114514

@@ -11,15 +11,15 @@ const config: Config = {
   favicon: 'https://lunova.studio/wp-content/uploads/2025/03/lunova_icon_bold_whait@svg.svg',
 
   // Set up your website's production URL here
-  url: 'https://lunova-studio.github.io',
+  url: 'https://dream-pep.github.io',
   // Set <baseUrl>the // pathname of the providing site
   // For GitHub page deployments, it's usually '/<projectName>/'
   baseUrl: '/',
 
   // GitHub 页面部署配置。
   // 如果您不使用 GitHub 页面，则不需要这些。
-  organizationName: 'lunova-studio', // This is usually your GitHub organization/username.
-  projectName: 'lunova-studio.github.io', // It is usually the name of the warehouse.
+  organizationName: 'dream-pep', // This is usually your GitHub organization/username.
+  projectName: 'dream-pep.github.io', // It is usually the name of the warehouse.
   deploymentBranch: 'docusaurus',
   trailingSlash: false,
   onBrokenLinks: 'throw',
@@ -42,7 +42,7 @@ const config: Config = {
           // 请将其更改为您的存储库。
           // Delete this link （删除此链接） 以删除 Edit this page （编辑此页面） 链接。
           editUrl:
-            'https://github.com/lunova-studio/lunova-studio.github.io/tree/docusaurus/',
+            'https://github.com/dream-pep/dream-pep.github.io/tree/docusaurus/',
         },
         blog: {
           showReadingTime: true,
@@ -53,7 +53,7 @@ const config: Config = {
           // 请将其更改为您的存储库。
           // Delete this link （删除此链接） 以删除 Edit this page （编辑此页面） 链接。
           editUrl:
-            'https://github.com/lunova-studio/lunova-studio.github.io/tree/docusaurus/',
+            'https://github.com/dream-pep/dream-pep.github.io/tree/docusaurus/',
           // 实施博客最佳实践的有用选项
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -134,11 +134,11 @@ const config: Config = {
           items: [
             {
               label: '文档 GitHub 仓库',
-              href: 'https://github.com/lunova-studio/lunova-studio.github.io',
+              href: 'https://github.com/dream-pep/dream-pep.github.io',
             },
             {
-              label: 'Lunova Studio 官网',
-              href: 'https://lunova.studio',
+              label: 'vrcub 官网',
+              href: 'https://vrcub.net',
             },
           ],
         },
@@ -152,36 +152,15 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: '文档',
-          items: [
-            {
-              label: 'MinecraftLaunch',
-              to: '/docs/MinecraftLaunch',
-            },
-            {
-              label: 'WonderLab',
-              to: '/docs/WonderLab',
-            },
-            {
-              label: 'Monet',
-              to: '/docs/Monet',
-            },
-            {
-              label: '设计规范',
-              to: '/docs/design',
-            },
-          ],
-        },
-        {
           title: '社交链接',
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/lunova-studio',
+              href: 'https://github.com/dream-pep',
             },
             {
-              label: 'Lunova Studio 官网',
-              href: 'https://lunova.studio',
+              label: 'vrcub 官网',
+              href: 'https://vrcub.net',
             },
           ],
         },
@@ -191,7 +170,7 @@ const config: Config = {
         src: '/img/BWP.png',
         href: 'https://lunova.studio',
       },
-      copyright: `Copyright © ${new Date().getFullYear()} Lunova Studio. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} VRCub. Built with Docusaurus. | 由dream_pep带着辛勤的汗水制作`,
     },
     prism: {
       theme: prismThemes.github,
